@@ -39,11 +39,6 @@ header h1{
 	margin: 50px auto;
 }
 
-.boxes{
-	width: 800px;
-	height: 200px;
-}
-
 .box-1{
 	float:left;
 	width: 200px;
